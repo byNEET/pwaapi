@@ -1,4 +1,6 @@
-[{"id":1,"nama":"Turkey, australian brush","kategori":"Puce"},
+{
+  "products":[
+{"id":1,"nama":"Turkey, australian brush","kategori":"Puce"},
 {"id":2,"nama":"Mississippi alligator","kategori":"Crimson"},
 {"id":3,"nama":"Kalahari scrub robin","kategori":"Red"},
 {"id":4,"nama":"Glider, sugar","kategori":"Goldenrod"},
@@ -17,4 +19,6 @@
 {"id":17,"nama":"Savanna baboon","kategori":"Maroon"},
 {"id":18,"nama":"Lemur, brown","kategori":"Maroon"},
 {"id":19,"nama":"Bird, red-billed tropic","kategori":"Blue"},
-{"id":20,"nama":"Goose, egyptian","kategori":"Yellow"}]
+{"id":20,"nama":"Goose, egyptian","kategori":"Yellow"}
+  ]
+}
